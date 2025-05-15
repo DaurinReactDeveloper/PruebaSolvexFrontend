@@ -1,0 +1,33 @@
+.modal-header {
+  background-color: #162539;
+  color: white;
+}
+
+.btn-add,
+.btn-close-modal {
+  border: none;
+  color: white;
+  padding: 0.4vw 0.5vw;
+  border-radius: 0.2vw;
+}
+
+.btn-close-modal {
+  background-color: #dd3b30;
+}
+
+.btn-add {
+  background-color: #162539;
+}
+
+.btn-add:hover {
+  background-color: #162539e1;
+}
+
+.btn-close-modal:hover {
+  background-color: #dd3c30ec;
+}
+
+#productDescription,
+#edit-product-description {
+  resize: none;
+}

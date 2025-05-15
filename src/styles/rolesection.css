@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "poppinsregular";
+  src: url("/src//assets/fonts/Poppins-Regular.ttf");
+}
+
+.section-buttons > button {
+  border-radius: 2vw;
+  font-family: "poppinsregular";
+  border: none;
+  background-color: #162539;
+  color: white;
+  padding: 0.3vw 1vw;
+}
+
+.section-buttons > button:hover {
+  background-color: #dd3b30;
+  transition: background-color 1s;
+}
+
+.section-buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1vw;
+}

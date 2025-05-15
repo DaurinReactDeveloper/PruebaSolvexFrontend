@@ -1,0 +1,64 @@
+@font-face {
+  font-family: "poppinsregular";
+  src: url("/src//assets/fonts/Poppins-Regular.ttf");
+}
+
+.table-names {
+  background-color: #162539;
+  color: white;
+}
+
+.container-table-user {
+  font-family: "poppinsregular";
+  overflow: auto;
+  max-height: 30vw;
+}
+
+.tr-tablet-user > td {
+  text-align: center;
+}
+
+.tr-tablet-user > th {
+  text-align: center;
+}
+
+.td-name {
+  white-space: nowrap;
+}
+
+.btn-add-user {
+  border: none;
+  background-color: #162539;
+  color: white;
+  border-radius: 5vw;
+  padding: 0.3vw 1.3vw;
+  margin-bottom: 1vw;
+}
+
+.btn-add-user:hover {
+  background-color: #dd3b30;
+  transition: background-color 1s;
+}
+
+.btn-delete-user,
+.btn-edit-user {
+  background-color: unset;
+  border: none;
+  font-size: 1vw;
+}
+
+.btn-delete-user {
+  color: #dd3b30;
+}
+
+.btn-edit-user {
+  color: #162539;
+}
+
+.btn-delete-user:hover {
+  color: #162539;
+}
+
+.btn-edit-user:hover {
+  color: #dd3b30;
+}

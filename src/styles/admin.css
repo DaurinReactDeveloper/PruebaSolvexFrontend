@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "poppinsbold";
+  src: url("/src//assets/fonts/Poppins-Bold.ttf");
+}
+
+.arctile-user-admin > h2 {
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 2vw;
+  padding-bottom: 1vw;
+  font-family: "poppinsbold";
+}

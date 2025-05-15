@@ -1,0 +1,50 @@
+@font-face {
+  font-family: "poppinsregular";
+  src: url("/src//assets/fonts/Poppins-Regular.ttf");
+}
+
+.navbar-dark {
+  background-color: #162539;
+  font-family: "poppinsregular";
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.1vw;
+}
+
+.navbar-brand > P {
+  margin-bottom: 0vw;
+  padding-bottom: 0vw;
+}
+
+.navbar-brand > hr {
+  opacity: 1;
+  border-radius: 1vw;
+}
+
+.btn-search-navbar {
+  background-color: #dd3b30;
+  color: white;
+}
+
+.nav-item-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-closesesion-navbar {
+  border: none;
+  background-color: #dd3b30;
+  color: white;
+  border-radius: 5vw;
+  padding: 0.1vw 1vw;
+}
+
+.btn-closesesion-navbar:hover {
+  background-color: #dd3c30a4;
+  transition: background-color 1s;
+}

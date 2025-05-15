@@ -1,0 +1,45 @@
+@font-face {
+  font-family: "poppinsbold";
+  src: url("/src//assets/fonts/Poppins-Bold.ttf");
+}
+
+@font-face {
+  font-family: "poppinsregular";
+  src: url("/src//assets/fonts/Poppins-Regular.ttf");
+}
+
+.h1-products {
+  text-align: center;
+  padding-top: 1vw;
+  font-family: "poppinsbold";
+  color: #dd3b30;
+}
+
+.product-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.div-img-product {
+  width: 23%;
+}
+
+.div-description-product {
+  font-family: "poppinsregular";
+  text-align: justify;
+  line-height: 1.8vw;
+  width: 30%;
+}
+
+.div-description-product > h3 {
+  font-family: "poppinsbold";
+}
+
+.div-description-product > p {
+  margin-bottom: 0vw;
+}
+
+.p-precio-product {
+  text-align: end;
+}

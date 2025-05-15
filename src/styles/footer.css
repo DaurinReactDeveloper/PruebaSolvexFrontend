@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "poppinsregular";
+  src: url("/src//assets/fonts/Poppins-Regular.ttf");
+}
+
+.div-footer {
+  background-color: #162539;
+  color: white;
+  text-align: center;
+  font-family: "poppinsregular";
+  padding: 0.5vw;
+}
+
+.div-footer > p {
+  margin-bottom: 0vw;
+}

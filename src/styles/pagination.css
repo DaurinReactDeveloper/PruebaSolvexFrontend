@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "poppinsregular";
+  src: url("/src/assets/fonts//Poppins-Regular.ttf");
+}
+
+.pagination {
+  margin-bottom: 0vw;
+  font-family: "poppinsregular";
+}
+
+.page-link {
+  color: #162539;
+  border-color: #151f411c;
+}
+
+.page-item.active .page-link {
+  background-color: #162539;
+  border-color: #151f41;
+}
+
+.page-link:hover {
+  background-color: #162539;
+  color: white;
+}
+
+.page-item.disabled .page-link {
+  color: #162539;
+}
