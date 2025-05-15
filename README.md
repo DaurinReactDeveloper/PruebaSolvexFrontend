@@ -46,5 +46,5 @@
 
 <h2>📫 Contacto</h2>
 
-<p>👨‍💻 Desarrollado por: <strong>[Tu nombre o equipo]</strong></p>
-<p>📧 Email: <a href="mailto:tuemail@dominio.com">tuemail@dominio.com</a></p>
+<p>👨‍💻 Desarrollado por: <strong>Daurin Gonzalez</strong></p>
+<p>📧 Email: dauringonzales7@gmail.com </p>
