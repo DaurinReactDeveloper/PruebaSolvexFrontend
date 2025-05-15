@@ -3,10 +3,10 @@
 <h2>⚠️ Notas Importantes sobre la Página Web</h2>
 
 <ul>
-  <li>📱 <strong>La aplicación no es responsiva</strong> debido a la falta de tiempo para implementar una solución adecuada con Bootstrap u otras librerías de diseño responsivo.</li>
+  <li>📱 <strong>La aplicación no es responsiva</strong> debido al tiempo limitado, por lo que no se implementaron soluciones como Bootstrap o librerías similares de diseño adaptativo.</li>
 </ul>
 
----
+<hr />
 
 <h2>🛠️ Tecnologías Usadas</h2>
 
@@ -19,33 +19,30 @@
   <li>🔀 <strong>React Router DOM</strong> para gestionar las rutas</li>
 </ul>
 
----
+<hr />
 
 <h2>📱 Características del Frontend</h2>
 
 <p>La aplicación frontend permite:</p>
 
 <ul>
-  <li><strong>Inicio de sesión y registro</strong> con autenticación por JWT.</li>
+  <li><strong>Inicio de sesión y registro</strong> con autenticación mediante JWT.</li>
   <li><strong>Visualización de productos</strong> con diferentes colores y precios.</li>
-  <li><strong>Carga de imágenes</strong> para los productos utilizando Cloudinary.</li>
   <li><strong>Gestión de rutas</strong> mediante <code>React Router DOM</code>.</li>
-  <li><strong>Estilo de interfaz</strong> con <strong>Bootstrap</strong>.</li>
+  <li><strong>Estilo de la interfaz</strong> con <strong>Bootstrap</strong>.</li>
 </ul>
 
----
+<hr />
 
-<h2>Enlace para ver el video del proyecto</h2>
+<h2>🎥 Enlace para ver el video del proyecto</h2>
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1mezu3Z5xqU3QafiK4Bp7v-XZShLmoaMV/view?usp=drive_link" target="_blank">
+<p>
+  📹 <a href="https://drive.google.com/file/d/1mezu3Z5xqU3QafiK4Bp7v-XZShLmoaMV/view?usp=drive_link" target="_blank">
+    Ver video del sistema en acción
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/tuImagenEjemplo2.png" alt="Captura 2" style="max-width: 100%; border: 1px solid #ccc; border-radius: 8px;" />
-</p>
-
----
+<hr />
 
 <h2>📫 Contacto</h2>
 
