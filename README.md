@@ -42,6 +42,10 @@
   </a>
 </p>
 
+<p>
+  ⚠️ <em>En el video mencioné que se utilizó el patrón <strong>Singleton</strong>, pero esto es incorrecto. En realidad, el backend implementa el <strong>patrón Repositorio</strong> para el acceso a datos y utiliza <strong>inyección de dependencias</strong> para la gestión de servicios.</em>
+</p>
+
 <hr />
 
 <h2>📫 Contacto</h2>
